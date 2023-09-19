@@ -1,7 +1,7 @@
 # Snake Game
-This Snake game is made with the help of HTML , CSS and Vanilla JS.
+This Snake game is made with the help of HTML , CSS and Vanilla Js.
 <br>
-It is a responsive app optimised for both desktop and mobile phones.
+It is made only for desktop as it is a keyboard dependent game.
 <br> <br>
 Home Page : 
 <br> <br>
